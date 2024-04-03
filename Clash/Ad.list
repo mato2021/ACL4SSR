@@ -1,6 +1,13 @@
-#新的
+#tab
 DOMAIN-SUFFIX,codelife.cc
-
+#大多数App开发者分析崩溃数据统计、搜集
+DOMAIN-SUFFIX,e.crashlytics.com
+#阿里
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tanx.com
+DOMAIN-SUFFIX,bdstatic123
+#百度
+DOMAIN-SUFFIX,bcebos.com
 
 #下面是旧的
 DOMAIN-SUFFIX,0.code.cotsta.ru

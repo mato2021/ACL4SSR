@@ -3,6 +3,14 @@ payload:
   - DOMAIN-SUFFIX,video.google.com
   - DOMAIN-SUFFIX,ytimg.com.com
   - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,youtubefanfest.com
+  - DOMAIN-SUFFIX,youtubegaming.com
+  - DOMAIN-SUFFIX,youtubemobilesupport.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,withyoutube.com
+  - DOMAIN-SUFFIX,wide-youtube.l.google.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
   
 
   - IP-CIDR,172.110.32.0/21,no-resolve

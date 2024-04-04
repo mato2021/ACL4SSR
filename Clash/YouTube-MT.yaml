@@ -2,7 +2,7 @@
 payload:
   - DOMAIN-KEYWORD,googlevideo.com
   - DOMAIN-SUFFIX,video.google.com
-  - DOMAIN-SUFFIX,ytimg.com.com
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,youtubefanfest.com
   - DOMAIN-SUFFIX,youtubegaming.com

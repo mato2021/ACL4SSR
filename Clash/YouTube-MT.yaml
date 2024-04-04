@@ -1,3 +1,6 @@
+#给MT用，防止串区，这里只走高流量的
+
+
 payload:
   - DOMAIN-KEYWORD,googlevideo.com
   - DOMAIN-SUFFIX,video.google.com
